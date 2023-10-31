@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SnakeWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ SnakeWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SnakeWorld()
+comment2.params=
+comment2.target=void\ addFood()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=boolean\ isGameOverConditionMet()
+comment6.params=
+comment6.target=void\ showGameOver()
+numComments=7
